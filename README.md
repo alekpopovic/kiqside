@@ -1,5 +1,7 @@
 # Kiqside
 
+[![Elixir CI](https://github.com/alekpopovic/kiqside/actions/workflows/elixir.yml/badge.svg)](https://github.com/alekpopovic/kiqside/actions/workflows/elixir.yml)
+
 Sidekiq-like Job Processing Library for Elixir
 
 ## Installation
